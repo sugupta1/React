@@ -1,0 +1,19 @@
+.show{
+    margin: 2rem auto; /*top and bottom 2rem left right auto*/
+    padding: 1rem;
+    width: 90%;
+    max-width: 40rem; /*make responsive for small device*/
+    background-color: aliceblue;
+}
+.show li{
+    display: block;  /* make li in next line*/
+    font: inherit;
+    font-weight: bold;
+    width: 100%;
+    margin-bottom: 0.5rem;
+    margin-right: 1rem;
+    border: 1px solid #ccc;
+    padding: 0.05rem;
+    background-color: rgb(203, 212, 202);
+    
+}
